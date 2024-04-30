@@ -1,0 +1,9 @@
+/* background.css */
+.background {
+    -fx-background-color: #b8b8b8;
+}
+.label{
+    -fx-text-fill:  #4141ff;
+    -fx-font-weight: bold;
+    -fx-font-size: 16px;
+}
